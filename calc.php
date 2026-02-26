@@ -1,4 +1,8 @@
+<h2>calculator</h2>
+<h4>Fahim humam mahdi(255150400111029)</h4>
+
 <?php
+
     if (isset($_POST["num1"])){
         $num1=$_POST["num1"];
     }
